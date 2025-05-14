@@ -1,0 +1,37 @@
+colors:
+#2E323F
+#3B4050
+#6F737F
+#FFFFFF
+#A59678
+
+fonts:
+
+1 | Oswald Bold - font-size: 18px;
+2 | Oswald Bold - font-size: 90px;
+3 | Montserrat Regular - font-size: 24px;
+4 | Oswald Bold - font-size: 24px;
+5 Oswald Bold - font-size: 30px; 
+  Monserrat Regular - font-size: 18px
+6 Oswald Bold - font-size: 36px; 
+	Monserrat Regular - font-size: 21px
+7 Oswald Bold - font-size: 30px; 
+	Monserrat Regular - font-size: 18px
+8 | Oswald Bold - font-size: 24px;
+Oswald Bold - font-size: 21px; 
+Monserrat Regular - font-size: 16px
+
+Maximum width of the container: 1200px
+breakpoints: 700px & 1000px
+
+
+
+html:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+
+
+
+
+

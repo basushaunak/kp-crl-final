@@ -1,0 +1,51 @@
+Responsive layouts don’t have to be a struggle
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+I want to learn
+
+Mobile-first
+Lorem*50
+
+Efficient
+Lorem*50
+
+Done right
+Lorem*50
+
+It doesn't have to be so hard
+Lorem*50
+<img>
+Lorem*50
+
+Break it down
+Lorem*50
+
+Work your way up
+Lorem*50
+
+Lorem*50
+
+Just scratching the surface
+
+About our company
+Lorem*40
+
+Getting around
+Home
+About
+Contact
+
+Other things
+Lorem ipsum
+dolor
+sit amet
+consectetur
+
+And more
+Lorem ipsum
+dolor
+sit amet
+consectetur
+
+
