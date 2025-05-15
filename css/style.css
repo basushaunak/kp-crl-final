@@ -109,8 +109,8 @@ img{
     color: var(--highlight-color)
 }
 
-h1{
-    font-size: var(--h1-font-size);
+.hero-title{
+    font-size: 3.28125rem;    
     font-family: var(--headline-font-family);
     color: var(--light-background-color);
     line-height: 1.1em;
@@ -218,12 +218,19 @@ a:hover, a:focus{
 }
 
 @media screen and (min-width: 700px){
+    .hero-title{
+        font-size: 4.6875rem;
+    }
     .main-card-container{
         grid-template-columns: repeat(3, 1fr);
     }
 }
 
 @media screen and (min-width: 1000px){
+    .hero-title{
+        font-size: var(--h1-font-size);
+    }
+
     .main-card-container{
         grid-template-columns: none;
         grid-template-rows: repeat(3, 1fr);
